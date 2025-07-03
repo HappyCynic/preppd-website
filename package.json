@@ -1,0 +1,21 @@
+{
+  "name": "preppd-website",
+  "version": "1.0.0",
+  "description": "A website for the Preppd app",
+  "scripts": {
+    "start": "live-server .",
+    "build": "echo 'Build step can be added here.'"
+  },
+  "keywords": [
+    "software",
+    "travel",
+    "preparation",
+    "packing"
+  ],
+  "author": "Happy Cynic Software",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
